@@ -1,3 +1,2 @@
 LINKS:
-Trello - 
-https://trello.com/b/mFtYNvzn/c-game
+Trello - https://trello.com/b/mFtYNvzn/c-game
